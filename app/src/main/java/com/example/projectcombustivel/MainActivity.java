@@ -1,3 +1,6 @@
+/*
+ *@author:<Wallace Moura Machado de Oliveira;1110482413004>
+ */
 package com.example.projectcombustivel;
 
 import androidx.appcompat.app.AppCompatActivity;
